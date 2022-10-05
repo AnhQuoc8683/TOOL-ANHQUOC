@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E33pRtAZ+rBdiC0i8xHm2L6VC05/7VMKzJ/rBA6rWzGLjybumAAQZyyg3axsWp3kCOQklGmFg/ioEmI4+eH+Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ANH QUOC PRO\\Desktop\\Selenium\\TOOL CHANGE USER AGENT ANH QUOCV1\\TOOL CHANGE USER AGENT ANH QUOCV1\\TOOL CHANGE USER AGENT ANH QUOCV1\\TOOL CHANGE USER AGENT ANH QUOCV1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANH QUOC PRO\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ANH QUOC PRO\\.nuget\\packages\\selenium.webdriver\\4.5.0\\selenium.webdriver.4.5.0.nupkg.sha512",
+    "C:\\Users\\ANH QUOC PRO\\.nuget\\packages\\selenium.webdriver.chromedriver\\106.0.5249.6100\\selenium.webdriver.chromedriver.106.0.5249.6100.nupkg.sha512"
+  ],
+  "logs": []
+}
